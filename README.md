@@ -51,7 +51,9 @@ print(x)
 ~~~
 
 ## Output:
-![lu decomposition](https://github.com/Praneet002/LU-Decomposition/blob/main/Screenshot%20(8).png?raw=true)
+Program to find the LU Decomposition of a matrix.
+![lu decomposition](https://github.com/Praneet002/LU-Decomposition/blob/main/Screenshot%20(8).png?raw=true)    Program to solve a matrix using LU Decomposition.
+![lu decomposition](https://github.com/Praneet002/LU-Decomposition/blob/main/Screenshot%20(9).png?raw=true)
 
 
 ## Result:
