@@ -30,6 +30,15 @@ Developed by:
 RegisterNumber: 
 */
 ```
+~~~
+import numpy as np
+import scipy
+from scipy.linalg import lu
+A = eval(input())
+P,L,U=lu(A)
+print(L)
+print(U)
+~~~
 
 ## Output:
 ![lu decomposition]()
