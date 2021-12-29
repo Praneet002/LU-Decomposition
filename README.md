@@ -41,7 +41,7 @@ print(U)
 ~~~
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](https://github.com/Praneet002/LU-Decomposition/blob/main/Screenshot%20(8).png?raw=true)
 
 
 ## Result:
